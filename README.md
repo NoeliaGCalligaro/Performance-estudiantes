@@ -1,7 +1,7 @@
 
 # 📊 Análisis de Rendimiento Estudiantil
 
-Este proyecto analiza datos reales de estudiantes para descubrir cómo los hábitos diarios (estudio, sueño, ejercicio, redes sociales) y factores de bienestar (salud mental, tiempo libre) influyen en el rendimiento académico.
+Este proyecto analiza datos simulados de estudiantes para descubrir cómo los hábitos diarios (estudio, sueño, ejercicio, redes sociales) y factores de bienestar (salud mental, tiempo libre) influyen en el rendimiento académico.
 
 ---
 
